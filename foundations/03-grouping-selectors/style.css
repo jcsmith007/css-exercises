@@ -1,0 +1,12 @@
+.vintage {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+.modern {
+    background-color: rgb(255, 255, 0);
+}
+.vintage, 
+.modern {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
